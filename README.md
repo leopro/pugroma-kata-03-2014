@@ -16,4 +16,6 @@ So, first you must get the code and run the tests to be sure you're up.<br/>
 
 **Kata**
 
-The kata will be available on 25 March 2014 at 19:30 ;-)
+http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz?".
