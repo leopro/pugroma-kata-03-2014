@@ -6,7 +6,7 @@ class Kata
 {
     public function isReady()
     {
-        return true;
+        return false;
     }
 }
 
